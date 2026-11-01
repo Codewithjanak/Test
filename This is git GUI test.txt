@@ -1,1 +1,2 @@
 This is git GUI test
+test confirmation 
